@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files/Sublime Text/python38.dll",
+		"/C/xampp/htdocs/web tech/Lab Task 8/Model/db_config.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/registration3.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/registration2.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/registration1.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/footer.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/header.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/index.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/_home.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/passwordchange.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/editPersonalInfo.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/editAddressInfo.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/accDetails.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/Controller/login.php",
+		"/C/xampp/htdocs/web tech/Lab Task 8/Login.php",
+		"/C/New folder/Lab Task 7/_home.php",
+		"/C/New folder/Lab Task 6/header.php",
+		"/C/New folder/Lab Task 6/index.php",
+		"/C/New folder/Lab Task 6/accDetails.php",
+		"/C/New folder/Lab Task 6/_home.php",
+		"/C/New folder/Lab Task 6/Controller/registration2.php",
+		"/C/New folder/Lab Task 6/Controller/registration1.php",
+		"/C/New folder/Lab Task 6/Login.php",
+		"/C/xampp/htdocs/web tech/Lab Task 5/controller/createemploye.php",
+		"/C/xampp/htdocs/web tech/Lab Task 5/model/Databasemodel.php",
+		"/C/Users/user/Desktop/view/showemployee.php",
+		"/C/Users/user/Desktop/view/showsearchedemployee.php",
+		"/C/Users/user/Desktop/view/showAllemployee.php",
+		"/C/Users/user/Desktop/view/searchemployee.php",
+		"/C/Users/user/Desktop/view/navigation.php",
+		"/C/Users/user/Desktop/view/employeedelete.php",
+		"/C/Users/user/Desktop/view/editemployee.php",
+		"/C/Users/user/Desktop/view/addemployee.php",
+		"/C/Users/user/Desktop/model/Databasemodel.php",
+		"/C/Users/user/Desktop/model/Databaseconnect.php",
+		"/C/Users/user/Desktop/controller/updateemployee.php",
+		"/C/Users/user/Desktop/controller/employeeinfo.php",
+		"/C/Users/user/Desktop/controller/deleteemployee.php",
+		"/C/Users/user/Desktop/controller/createemploye.php",
+		"/C/xampp/htdocs/project/registration.php",
+		"/C/xampp/htdocs/project/registration checkup.php",
+		"/C/xampp/htdocs/project/login.php",
+		"/C/xampp/htdocs/project/forgot password.php",
+		"/C/xampp/htdocs/project/logout.php",
+		"/C/xampp/htdocs/project/Login checkup.php",
+		"/C/xampp/htdocs/project/edit profile.php",
+		"/C/xampp/htdocs/project/change password.php",
+		"/C/xampp/htdocs/project/Dashboard.php",
+		"/C/xampp/htdocs/project/view profile.php",
+		"/D/New folder/project/registration checkup.php",
+		"/D/New folder/project/edit profile.php",
+		"/D/New folder/project/Dashboard.php",
+		"/D/New folder/project/change profile picture.php",
+		"/D/New folder/project/change password.php",
+		"/D/New folder/project/view profile.php",
+		"/D/project/project/view profile.php",
+		"/C/xampp/htdocs/project/change profile picture.php",
+		"/C/xampp/htdocs/project/change profile.php",
+		"/C/xampp/htdocs/project/forget password.php",
+		"/C/xampp/htdocs/web tech/Lab task 1/Screenshot (74).png"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "_home.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
